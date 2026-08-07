@@ -1,1 +1,6 @@
 .env
+
+features.pkl
+ridge_house_price_model.pkl
+
+/catboost_info
