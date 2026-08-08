@@ -5,4 +5,6 @@ ridge_house_price_model.pkl
 
 /catboost_info
 
-_pycache_
+_pycache_/
+
+/model
