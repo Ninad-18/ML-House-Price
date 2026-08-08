@@ -23,4 +23,4 @@ def predict_price(square_feet, num_rooms, age, distance_to_city):
 
     prediction = model.predict(input_data)
 
-    return prediction[0]
+    return float(prediction.ravel()[0])
